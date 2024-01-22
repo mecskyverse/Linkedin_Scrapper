@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'linkedin.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
-# SCRAPEOPS_API_KEY = '4d7acfff-61f3-4e35-ad35-77a661d17e91'
+# You can add your api key I have added it here for demo purpose
 SCRAPEOPS_API_KEY = '22011564-876a-46c3-94be-1d69ae42c2fa'
 
 
