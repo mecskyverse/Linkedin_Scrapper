@@ -17,7 +17,7 @@ You can [sign up for a free API key here](https://scrapeops.io/app/register/main
 
 ## Here are the steps to setup project
 `git clone https://github.com/mecskyverse/Linkedin_Scrapper.git`<br/>
-Change the directory to linkedin: `cd linkedin`<br/>
+Change the directory to linkedin: `cd Linkedin_Scrapper/linkedin`<br/>
 Create a Python Virtual Environment: `python3 -m venv venv`<br/>
 Activate the Python Virtual Environment: `source venv/bin/activate`<br/>
 Install Scrapy using pip: `pip install scrapy scrapeops-scrapy pandas openpyxl scrapeops-scrapy-proxy-sdk`<br/>
